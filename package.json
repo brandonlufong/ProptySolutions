@@ -1,0 +1,29 @@
+{
+  "name": "realestate",
+  "version": "1.0.0",
+  "description": "This is a property management app firsy=t version deploy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhamagarwal16/realestate.git"
+  },
+  "keywords": [
+    "propty",
+    "solutions"
+  ],
+  "author": "Brandon-Lufong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shubhamagarwal16/realestate/issues"
+  },
+  "engines": {
+    "node": "12.16.1"
+  },
+  "homepage": "https://github.com/shubhamagarwal16/realestate#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
